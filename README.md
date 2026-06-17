@@ -13,7 +13,7 @@ Maps each numerical value to the 3D space in Blender
 
 **--Prerequisites--**
 
-Download the latest version of blender @ blender.org
+Download the latest version of blender @ [blender.org](https://www.blender.org/download/)
 
 The Iris dataset @ https://www.kaggle.com/datasets/himanshunakrani/iris-dataset
 
