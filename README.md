@@ -11,6 +11,8 @@ Associates a color for each different Iris species
 
 Maps each numerical value to the 3D space in Blender
 
+![My 3D Visualization](Results.png)
+
 **--Prerequisites--**
 
 Download the latest version of blender @ [blender.org](https://www.blender.org/download/)
