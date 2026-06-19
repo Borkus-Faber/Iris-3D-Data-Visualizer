@@ -1,7 +1,7 @@
 # Iris-3D-Data-Visualizer
 **PROJECT DESCRIPTION**
 
-This project provides a Python script for Blender that allows the user to visualize the Iris dataset as a neighborhood of cubes in 3D space. Its main use is to simplify the clustered spreadsheet into a more approachable and easy way to spot patterns / clusters.
+This project provides a Python script for Blender that allows you to visualize the Iris dataset as a neighborhood of cubes in 3D space. Its main use is to simplify the clustered spreadsheet into a more approachable and easy way to spot patterns / clusters.
 
 **--What it does--**
 
